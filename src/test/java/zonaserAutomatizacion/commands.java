@@ -8,6 +8,9 @@ import org.testng.annotations.BeforeTest;
 
 public class commands extends connections{
 
+	/*
+	 * Clase que se crea para manejar los atributos de una pagina 
+	 */
 	String url = "https://portal.mutualser.org/ZONASER/";
 	WebDriver driver;
 
