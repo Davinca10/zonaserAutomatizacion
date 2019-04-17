@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3210" started-at="2019-04-17T02:59:27Z" finished-at="2019-04-17T02:59:31Z">
+  <suite name="Default suite" duration-ms="3396" started-at="2019-04-17T13:58:33Z" finished-at="2019-04-17T13:58:37Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="3210" started-at="2019-04-17T02:59:27Z" finished-at="2019-04-17T02:59:31Z">
-      <class name="zonaserAutomatizacion.zonaSerAutomatizacion">
-        <test-method status="PASS" signature="connectionsURL()[pri:0, instance:zonaserAutomatizacion.zonaSerAutomatizacion@39aeed2f]" name="connectionsURL" is-config="true" duration-ms="2112" started-at="2019-04-16T21:59:27Z" finished-at="2019-04-16T21:59:30Z">
+    <test name="Default test" duration-ms="3396" started-at="2019-04-17T13:58:33Z" finished-at="2019-04-17T13:58:37Z">
+      <class name="zonaserAutomatizacion.ZonaSerAutomatizacion">
+        <test-method status="PASS" signature="connectionsURL()[pri:0, instance:zonaserAutomatizacion.ZonaSerAutomatizacion@39aeed2f]" name="connectionsURL" is-config="true" duration-ms="2367" started-at="2019-04-17T08:58:33Z" finished-at="2019-04-17T08:58:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- connectionsURL -->
-        <test-method status="PASS" signature="consultaVacia()[pri:0, instance:zonaserAutomatizacion.zonaSerAutomatizacion@39aeed2f]" name="consultaVacia" duration-ms="913" started-at="2019-04-16T21:59:30Z" description="testConsultaVacia" finished-at="2019-04-16T21:59:30Z">
+        <test-method status="PASS" signature="consultaVacia()[pri:0, instance:zonaserAutomatizacion.ZonaSerAutomatizacion@39aeed2f]" name="consultaVacia" duration-ms="847" started-at="2019-04-17T08:58:36Z" description="testConsultaVacia" finished-at="2019-04-17T08:58:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- consultaVacia -->
-        <test-method status="PASS" signature="nombreIps()[pri:0, instance:zonaserAutomatizacion.zonaSerAutomatizacion@39aeed2f]" name="nombreIps" duration-ms="78" started-at="2019-04-16T21:59:30Z" description="testNombreIps" finished-at="2019-04-16T21:59:31Z">
+        <test-method status="PASS" signature="nombreIps()[pri:0, instance:zonaserAutomatizacion.ZonaSerAutomatizacion@39aeed2f]" name="nombreIps" duration-ms="76" started-at="2019-04-17T08:58:36Z" description="testNombreIps" finished-at="2019-04-17T08:58:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- nombreIps -->
-        <test-method status="PASS" signature="close()[pri:0, instance:zonaserAutomatizacion.zonaSerAutomatizacion@39aeed2f]" name="close" is-config="true" duration-ms="93" started-at="2019-04-16T21:59:31Z" finished-at="2019-04-16T21:59:31Z">
+        <test-method status="PASS" signature="close()[pri:0, instance:zonaserAutomatizacion.ZonaSerAutomatizacion@39aeed2f]" name="close" is-config="true" duration-ms="86" started-at="2019-04-17T08:58:36Z" finished-at="2019-04-17T08:58:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-      </class> <!-- zonaserAutomatizacion.zonaSerAutomatizacion -->
+      </class> <!-- zonaserAutomatizacion.ZonaSerAutomatizacion -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

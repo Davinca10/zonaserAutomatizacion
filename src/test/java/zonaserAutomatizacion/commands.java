@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 
-public class commands extends connections{
+public class Commands extends Connections{
 
 	/*
 	 * Clase que se crea para manejar los atributos de una pagina 

@@ -7,7 +7,7 @@ import junit.framework.Assert;
 
 
 
-public class zonaSerAutomatizacion extends commands {
+public class ZonaSerAutomatizacion extends Commands {
 
 
 	/**

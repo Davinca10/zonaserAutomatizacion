@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 
-public class connections {
+public class Connections {
 
 
 	protected  void  connectionsSo () {
